@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1786561559 source:c:\users\hp\onedrive\bureau\gestionaeroport\fileattente.c
+	<stdio.h>
+	<stdlib.h>
+	"FileAttente.h"
+
+1786564900 c:\users\hp\onedrive\bureau\gestionaeroport\fileattente.h
+	"RegistreVols.h"
+
+1786564943 c:\users\hp\onedrive\bureau\gestionaeroport\registrevols.h
+
+1786559921 source:c:\users\hp\onedrive\bureau\gestionaeroport\registrevols.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"registreVols.h"
+
+1786569036 source:c:\users\hp\onedrive\bureau\gestionaeroport\main.c
+	<stdio.h>
+	<string.h>
+	"RegistreVols.h"
+	"FileAttente.h"
+	"Pile.h"
+
+1786569106 c:\users\hp\onedrive\bureau\gestionaeroport\pile.h
+	"RegistreVols.h"
+
+1786569791 source:c:\users\hp\onedrive\bureau\gestionaeroport\pile.c
+	<stdio.h>
+	<stdlib.h>
+	"Pile.h"
+
+1786561559 source:c:\users\hp\onedrive\bureau\biassalatrecymariane_unekwuhopealfa__projetaeroport\gestionaeroport\fileattente.c
+	<stdio.h>
+	<stdlib.h>
+	"FileAttente.h"
+
+1786564900 c:\users\hp\onedrive\bureau\biassalatrecymariane_unekwuhopealfa__projetaeroport\gestionaeroport\fileattente.h
+	"RegistreVols.h"
+
+1786564943 c:\users\hp\onedrive\bureau\biassalatrecymariane_unekwuhopealfa__projetaeroport\gestionaeroport\registrevols.h
+
+1786569791 source:c:\users\hp\onedrive\bureau\biassalatrecymariane_unekwuhopealfa__projetaeroport\gestionaeroport\pile.c
+	<stdio.h>
+	<stdlib.h>
+	"Pile.h"
+
+1786569106 c:\users\hp\onedrive\bureau\biassalatrecymariane_unekwuhopealfa__projetaeroport\gestionaeroport\pile.h
+	"RegistreVols.h"
+
+1786559921 source:c:\users\hp\onedrive\bureau\biassalatrecymariane_unekwuhopealfa__projetaeroport\gestionaeroport\registrevols.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"registreVols.h"
+
