@@ -44,4 +44,4 @@ et historique des actions avec possibilité d'annuler la dernière opération.
 Langage C · Code::Blocks
 
 ## Auteurs
-Trecy Biassala, Université Gaston Berger (UGB), Licence 3 Génie Informatique
+Trecy Biassala
